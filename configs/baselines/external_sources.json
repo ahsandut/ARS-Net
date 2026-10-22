@@ -1,0 +1,37 @@
+{
+  "TransUNet": {
+    "repository": "https://github.com/Beckschen/TransUNet.git",
+    "local_path": "external/TransUNet",
+    "integration": "external_source_required",
+  },
+  "Swin-Unet": {
+    "repository": "https://github.com/HuCaoFighting/Swin-Unet.git",
+    "local_path": "external/Swin-Unet",
+    "integration": "external_source_required",
+  },
+  "BATFormer": {
+    "repository": "https://github.com/xianlin7/BATFormer.git",
+    "local_path": "external/BATFormer",
+    "integration": "external_source_required",
+  },
+  "UCTNet": {
+    "repository": "https://github.com/innocence0206/UCTNet.git",
+    "local_path": "external/UCTNet",
+    "integration": "external_framework_required",
+  },
+  "nnU-Net": {
+    "repository": "https://github.com/MIC-DKFZ/nnUNet.git",
+    "local_path": "external/nnUNet",
+    "integration": "external_framework_required",
+  },
+  "Switch-UMamba": {
+    "repository": "https://github.com/Maqkccx/Switch-UMamba.git",
+    "local_path": "external/Switch-UMamba",
+    "integration": "external_framework_required",
+  },
+  "ACM-UNet": {
+    "repository": "https://github.com/zyklcode/ACM-UNet.git",
+    "local_path": "external/ACM-UNet",
+    "integration": "external_source_required",
+  }
+}

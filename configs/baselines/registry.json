@@ -1,0 +1,11 @@
+{
+  "AFC-Unet-custom": {
+    "enabled": true,
+    "implementation_type": "local_custom_implementation",
+    "factory": "baselines.afc_factory:build_model",
+    "kwargs": {"in_channels": 1, "num_classes": 2, "base_channels": 32, "num_heads": 4},
+    "input_shape": [1, 1, 320, 320],
+    "output_shape": [1, 2, 320, 320],
+    "notes": "Custom implementation based on the user-provided AFC-style module sketch. Do not describe it as the official AFC-Unet implementation unless checked against the authors' source."
+  }
+}

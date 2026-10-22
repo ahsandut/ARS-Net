@@ -1,0 +1,14 @@
+{
+  "dataset_root": "data/private_dataset",
+  "images_dir": "images",
+  "masks_dir": "masks",
+  "metadata_csv": "metadata.csv",
+  "manifest_csv": "manifests/all_slices.csv",
+  "cv_manifest_dir": "manifests/cv_5fold_160_40",
+  "image_size": 320,
+  "expected_subjects": 200,
+  "independent_test_subjects": 40,
+  "development_subjects": 160,
+  "folds": 5,
+  "random_seed": 42
+}

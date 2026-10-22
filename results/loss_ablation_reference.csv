@@ -1,0 +1,5 @@
+variant,dsc_acl_mean,dsc_acl_sd,dsc_pcl_mean,dsc_pcl_sd,iou_acl_mean,iou_acl_sd,iou_pcl_mean,iou_pcl_sd,asd_acl_mm_mean,asd_acl_mm_sd,asd_pcl_mm_mean,asd_pcl_mm_sd,hd95_acl_mm_mean,hd95_acl_mm_sd,hd95_pcl_mm_mean,hd95_pcl_mm_sd
+L_seg,89.84,1.24,88.41,1.37,81.53,2.06,79.07,2.24,1.10,0.19,1.25,0.22,3.48,0.68,3.87,0.75
+L_seg+L_dist,91.36,1.01,90.08,1.12,84.88,1.70,82.01,1.89,0.96,0.16,1.09,0.18,3.01,0.57,3.34,0.63
+L_seg+L_ctr,92.48,0.87,91.21,0.95,85.99,1.45,84.10,1.58,0.88,0.13,1.00,0.15,2.69,0.51,2.98,0.56
+L_seg+L_ctr+L_dist,93.58,0.68,92.28,0.76,87.95,1.16,85.70,1.30,0.84,0.11,0.99,0.11,2.48,0.48,2.76,0.45
