@@ -1,4 +1,4 @@
-# ARS-Net: training, ablation, evaluation, and baseline integration
+# ARS-Net 
 
 This repository contains a PyTorch implementation of the ARS-Net architecture, including its multi-scale encoder, geometry-guided relational module, structural refinement, progressive decoder, auxiliary structural targets, composite loss, subject-level data splitting, training, inference, physical-distance evaluation, ablations, statistics.
 
