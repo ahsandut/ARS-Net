@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.pth
+*.pt
+*.ckpt
+data/private_dataset/
+datasets/private/
+outputs/
+runs/
+wandb/
+.DS_Store
+Thumbs.db
+external/
